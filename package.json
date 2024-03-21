@@ -1,0 +1,14 @@
+{
+  "name": "docs-to-pdf",
+  "version": "1.0.0",
+  "description": "PDF generator from dependency documentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "./scripts/generate_pdf.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
